@@ -1,5 +1,6 @@
 package br.inatel.cdg.algebra.reta;
 
+
 public class Reta {
 
     private Ponto p1,p2;

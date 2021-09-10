@@ -1,5 +1,6 @@
 package br.inatel.cdg.algebra.scene;
 
+
 import br.inatel.cdg.algebra.reta.Ponto;
 import br.inatel.cdg.algebra.reta.Reta;
 import javafx.scene.Scene;

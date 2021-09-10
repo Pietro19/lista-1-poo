@@ -2,6 +2,7 @@ package br.inatel.cdg.algebra.reta;
 
 public class Ponto {
 
+
     private double x,y;
 
     public Ponto(double x, double y){
